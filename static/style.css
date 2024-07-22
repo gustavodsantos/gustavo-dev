@@ -11,10 +11,19 @@
     margin-bottom: -4px;
 }
 
+.img {
+    object-fit: contain;
+    display: block;
+    margin: -6px auto;
+    width: 480px;
+}
+
 .parte1{
     margin-left: 80px;
     margin-top: 80px;
+    margin-right: 80px;
 }
+
 .parte2{
     background-color: #00a78e;
     padding: 80px 80px;
